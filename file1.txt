@@ -1,7 +1,4 @@
 Hello world!
 123\45
 
-Good bye!
-
-lol
-kek
+Goog evening (from branch master)
